@@ -1,0 +1,5 @@
+Today I’m adding a small file for activity purposes.
+Soon, I will start sharing an MSSQL database system I’ve been working on and improve it step-by-step with version updates.
+
+Bugün aktiflik amacıyla küçük bir dosya ekliyorum.
+Yakında üzerinde çalıştığım MSSQL veri tabanı sistemini paylaşmaya başlayacağım ve onu adım adım, versiyon güncellemeleriyle geliştireceğim.
